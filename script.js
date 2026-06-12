@@ -5,7 +5,7 @@ console.log("VERSAO 2026 TESTE");
 
 const images = [
     "Imagem1.jpg",
-    "Imagem2.jpg"
+    "Imagem2.jpg",
     "Imagem3.jpg",
     "Imagem4.jpg",
     "Imagem5.jpg",
