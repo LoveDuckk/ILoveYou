@@ -15,15 +15,8 @@ const images = [
 
 let currentImage = 0;
 
-const albumImage = document.getElementById("albumImage");
-
-setInterval(() => {
-
-    currentImage++;
-
-    if (currentImage >= images.length) {
-        currentImage = 0;
-    }
+const albumImage =
+document.getElementById("albumImage");
 
 setInterval(() => {
 
@@ -44,8 +37,6 @@ setInterval(() => {
         };
 
     }, 1000);
-
-}, 4000);
 
 }, 4000);
 
