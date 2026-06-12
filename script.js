@@ -9,8 +9,7 @@ const images = [
     "Imagem3.jpg",
     "Imagem4.jpg",
     "Imagem5.jpg",
-    "Imagem6.jpg",
-    "Imagem7.jpg"
+    "Imagem6.jpg"
 ];
 
 let currentImage = 0;
